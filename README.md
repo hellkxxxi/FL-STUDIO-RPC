@@ -5,20 +5,20 @@ Lightweight Discord Rich Presence client for FL Studio featuring a clean AMOLED 
 </p>
 
 <p align="center">
-<img width="392" height="312" alt="FL-STUDIO-RPC_qVFu54c5UU" src="https://github.com/user-attachments/assets/907dcb7e-5892-4c56-b1c6-d5d371544e5c" />
+<img width="392" height="312" alt="FL-STUDIO-RPC" src="https://github.com/user-attachments/assets/907dcb7e-5892-4c56-b1c6-d5d371544e5c" />
 <p align="center">
 GUI version
 </p>
 
 <p align="center">
-<img width="1113" height="626" alt="WindowsTerminal_hqgCbVuYG0" src="https://github.com/user-attachments/assets/25ab151a-118b-4ed8-ae58-fa0351d9e0d6" />
+<img width="1113" height="626" alt="FL-STUDIO-RPC-CLI" src="https://github.com/user-attachments/assets/25ab151a-118b-4ed8-ae58-fa0351d9e0d6" />
 
 <p align="center">
 CLI version
 </p>
 
 <p align="center">
-<img width="243" height="108" alt="thorium_xV3rAB0Q5k" src="https://github.com/user-attachments/assets/4333686b-771f-42d1-a8ea-a6e95db44fbe" />
+<img width="243" height="108" alt="DISCORD-RPC" src="https://github.com/user-attachments/assets/4333686b-771f-42d1-a8ea-a6e95db44fbe" />
 <p align="center">
 Discord RPC
 </p>
