@@ -59,3 +59,5 @@ pip install pyinstaller
 pyinstaller --noconsole --onefile --icon=icon.ico --add-data "icon.ico;." --name "FL-STUDIO-RPC" fl_status.py
 pyinstaller --onefile --icon=icon.ico --exclude-module PyQt6 --name "FL-STUDIO-RPC-CLI" fl_status_cli.py
 ```
+
+Сreated by **hellkai \\ hellkxxxi**
